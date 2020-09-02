@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  LastImport="2020-09-01T16:57:06.7409930-07:00"
+  DeleteStale="true"
+  IncludePattern="*.htm;*.html;*.flmsp"
+  ParentMadCapCentralId="16111">
+  <Files>
+    <Url
+      Source="../../../ProjectB/ProjectB.flprj"
+      AbsoluteSource="../../../ProjectB/ProjectB.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../ProjectB/Content/Home.htm"
+      AbsoluteSource="file:///C:/Bug Projects/146724/bug/ProjectB/Content/Home.htm" />
+    <Url
+      Source="../../../ProjectB/Content/System-Requirements.htm"
+      AbsoluteSource="file:///C:/Bug Projects/146724/bug/ProjectB/Content/System-Requirements.htm" />
+    <Url
+      Source="../../../ProjectB/Content/Resources/MasterPages/Home-Page.flmsp"
+      AbsoluteSource="file:///C:/Bug Projects/146724/bug/ProjectB/Content/Resources/MasterPages/Home-Page.flmsp" />
+    <Url
+      Source="../../../ProjectB/Content/Resources/MasterPages/Other-Topics.flmsp"
+      AbsoluteSource="file:///C:/Bug Projects/146724/bug/ProjectB/Content/Resources/MasterPages/Other-Topics.flmsp" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Home.htm"
+      TimeStamp="6/15/2020 7:14:32 PM" />
+    <Url
+      Source="../../Content/System-Requirements.htm"
+      TimeStamp="6/15/2020 7:14:32 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Home-Page.flmsp"
+      TimeStamp="6/15/2020 7:14:32 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Other-Topics.flmsp"
+      TimeStamp="6/15/2020 7:14:32 PM" />
+  </GeneratedFiles>
+</CatapultProjectImport>
