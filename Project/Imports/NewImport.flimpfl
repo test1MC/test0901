@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultProjectImport
   AutoSync="true"
-  LastImport="2020-09-01T17:05:16.7315024-07:00"
+  LastImport="2020-09-01T17:06:06.9049168-07:00"
   DeleteStale="true"
   IncludePattern="*.htm;*.html;*.flmsp"
   ParentMadCapCentralId="16111">
@@ -12,9 +12,6 @@
   </Files>
   <ExcludedFiles />
   <CollectedSourceFiles>
-    <Url
-      Source="../../../146724/bug/ProjectB/Content/Home.htm"
-      AbsoluteSource="file:///C:/Bug Projects/146724/bug/ProjectB/Content/Home.htm" />
     <Url
       Source="../../../146724/bug/ProjectB/Content/System-Requirements.htm"
       AbsoluteSource="file:///C:/Bug Projects/146724/bug/ProjectB/Content/System-Requirements.htm" />
@@ -27,9 +24,6 @@
   </CollectedSourceFiles>
   <SkippedSourceFiles />
   <GeneratedFiles>
-    <Url
-      Source="../../Content/Home.htm"
-      TimeStamp="6/15/2020 7:14:32 PM" />
     <Url
       Source="../../Content/System-Requirements.htm"
       TimeStamp="6/15/2020 7:14:32 PM" />
